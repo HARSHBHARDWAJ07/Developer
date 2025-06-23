@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/harsh-bhardwaj-portfolio/static/css/main.8dff60a2.css",
-    "main.js": "/harsh-bhardwaj-portfolio/static/js/main.7d841b6a.js",
-    "static/media/ecommerce.png": "/harsh-bhardwaj-portfolio/static/media/ecommerce.5b0be5884a301ea25b40.png",
-    "static/media/knight-trade.png": "/harsh-bhardwaj-portfolio/static/media/knight-trade.84927c2acd2641d3f75c.png",
-    "static/media/image.jpg": "/harsh-bhardwaj-portfolio/static/media/image.8ab33ec9c01bfd7ece64.jpg",
-    "static/media/school-dashboard.png": "/harsh-bhardwaj-portfolio/static/media/school-dashboard.7a7ee1cc5e24a20574f7.png",
-    "static/media/darkpulse-analytics.png": "/harsh-bhardwaj-portfolio/static/media/darkpulse-analytics.aa45296e98ada1470a41.png",
-    "static/media/financial-educator.png": "/harsh-bhardwaj-portfolio/static/media/financial-educator.02c71f90d7ec1cfdca46.png",
-    "index.html": "/harsh-bhardwaj-portfolio/index.html",
-    "main.8dff60a2.css.map": "/harsh-bhardwaj-portfolio/static/css/main.8dff60a2.css.map",
-    "main.7d841b6a.js.map": "/harsh-bhardwaj-portfolio/static/js/main.7d841b6a.js.map"
+    "main.css": "/Developer/static/css/main.8dff60a2.css",
+    "main.js": "/Developer/static/js/main.dac83f99.js",
+    "static/media/ecommerce.png": "/Developer/static/media/ecommerce.5b0be5884a301ea25b40.png",
+    "static/media/knight-trade.png": "/Developer/static/media/knight-trade.84927c2acd2641d3f75c.png",
+    "static/media/image.jpg": "/Developer/static/media/image.8ab33ec9c01bfd7ece64.jpg",
+    "static/media/school-dashboard.png": "/Developer/static/media/school-dashboard.7a7ee1cc5e24a20574f7.png",
+    "static/media/darkpulse-analytics.png": "/Developer/static/media/darkpulse-analytics.aa45296e98ada1470a41.png",
+    "static/media/financial-educator.png": "/Developer/static/media/financial-educator.02c71f90d7ec1cfdca46.png",
+    "index.html": "/Developer/index.html",
+    "main.8dff60a2.css.map": "/Developer/static/css/main.8dff60a2.css.map",
+    "main.dac83f99.js.map": "/Developer/static/js/main.dac83f99.js.map"
   },
   "entrypoints": [
     "static/css/main.8dff60a2.css",
-    "static/js/main.7d841b6a.js"
+    "static/js/main.dac83f99.js"
   ]
 }
