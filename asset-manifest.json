@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Developer/static/css/main.8dff60a2.css",
-    "main.js": "/Developer/static/js/main.9e208e0b.js",
+    "main.css": "/Developer/static/css/main.231acbaf.css",
+    "main.js": "/Developer/static/js/main.99bcce01.js",
     "static/media/ecommerce.png": "/Developer/static/media/ecommerce.5b0be5884a301ea25b40.png",
     "static/media/knight-trade.png": "/Developer/static/media/knight-trade.84927c2acd2641d3f75c.png",
     "static/media/image.jpg": "/Developer/static/media/image.8ab33ec9c01bfd7ece64.jpg",
@@ -9,11 +9,11 @@
     "static/media/darkpulse-analytics.png": "/Developer/static/media/darkpulse-analytics.aa45296e98ada1470a41.png",
     "static/media/financial-educator.png": "/Developer/static/media/financial-educator.02c71f90d7ec1cfdca46.png",
     "index.html": "/Developer/index.html",
-    "main.8dff60a2.css.map": "/Developer/static/css/main.8dff60a2.css.map",
-    "main.9e208e0b.js.map": "/Developer/static/js/main.9e208e0b.js.map"
+    "main.231acbaf.css.map": "/Developer/static/css/main.231acbaf.css.map",
+    "main.99bcce01.js.map": "/Developer/static/js/main.99bcce01.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dff60a2.css",
-    "static/js/main.9e208e0b.js"
+    "static/css/main.231acbaf.css",
+    "static/js/main.99bcce01.js"
   ]
 }
